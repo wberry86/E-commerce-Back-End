@@ -26,15 +26,16 @@
   n/a
   ## Questions:
   Below are links to my Github page and email in case you would like to contact me or have any further questions.
-  ## Link to Website
-
-  [professional readme generator](https://github.com/wberry86/professional-README-generator)
+  
+  ## Link to Walkthrough
+  [Link to walkthrough video](https://drive.google.com/file/d/1iUGHGhCVIaZroYeZAiYJsiPkvR7Icprn/view)
+  
   ## Screenshots:
-  ![ecom screenshot](https://github.com/wberry86/professional-README-generator/blob/main/Develop/img/readme-capture.PNG)
+  ![ecom screenshot](https://github.com/wberry86/e-commerce-back-end/blob/main/assets/images/ecom1.PNG)
 
-  ![ecom screenshot](https://github.com/wberry86/professional-README-generator/blob/main/Develop/img/readme-capture.PNG)
+  ![ecom screenshot](https://github.com/wberry86/e-commerce-back-end/blob/main/assets/images/ecom2.PNG)
 
-  ![ecom screenshot](https://github.com/wberry86/professional-README-generator/blob/main/Develop/img/readme-capture.PNG)
+  ![ecom screenshot](https://github.com/wberry86/e-commerce-back-end/blob/main/assets/images/ecom3.PNG)
 
 
 
