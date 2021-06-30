@@ -10,6 +10,7 @@
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
+  - [Walkthrough](#walkthrough)
   - [Screenshots](#screenshots)
   ## Description:
   E-commerce is a back end application designed to simulate a retail database system. This exercise utilizes object relational mapping (ORM) in order to build a back end e-commerce website.
@@ -27,7 +28,7 @@
   ## Questions:
   Below are links to my Github page and email in case you would like to contact me or have any further questions.
   
-  ## Link to Walkthrough
+  ## Walkthrough
   [Link to walkthrough video](https://drive.google.com/file/d/1iUGHGhCVIaZroYeZAiYJsiPkvR7Icprn/view)
   
   ## Screenshots:
